@@ -1,0 +1,33 @@
+Öğrenci İşleri için sistem gereksinimleri
+
+Yeni açılan bir bölümün sisteme eklenmesi işlemini 
+Akademik takvim tanımlama işlemi
+Ders tanımlama işlemi
+Öğrenci tanımlama işlemi
+Öğrenci ve ders tanımlarını tek tek ya da .cvs uzantılı dosya ile otomatik olarak sisteme yükleme işlemi
+Şablon tutarsızlıkları için uyarı mesajı 
+Öğrencinin daha önceki dönemlerde başarısız olduğu dersleri öğrenci üzerine atama işlemi
+
+Öğrenciler için sistem gereksinimleri
+
+Ders kaydı ve ekle-sil dönemlerinde ders ekleme ve silme işlemi
+Her döneme ait karne bilgisini görebilme
+Transkript bilgisini görebilme
+Akademik durum çizelgesi izleme işlemi
+Bölüm kodu, ders kodu, ders adı girerek ders arayabilme işlemi
+Öğrenci bulunduğu döneme göre AKTS ile sınırlandırılmalıdır (Öğrenciler birinci ve ikinci dönem en fazla 30 AKTS kredili, üçüncü dönemden itibaren en fazla 42 AKTS kredili ders alabilirler. Öğrenci, dört yıllık programlarda yedinci dönemden, beş yıllık programlarda dokuzuncu dönemden itibaren en fazla 48 AKTS kredili ders alabilirler. )
+Öğrenci aldığı derslerin kontenjanlarını ve doluluk oranlarını görebilmeli
+Öğrenci bulunduğu döneme göre alması gereken zorunlu dersleri görebilmeli
+Kendisine ait yapılan işlemlerin kaydını görebilmeli
+Kayıt olduğu derslerin gün ve saatlerini liste şeklinde görebilmeli
+
+Akademik Personel için sistem gereksinimleri
+
+Program kayıtlarını onaylama işlemi
+Not giriş işlemi
+Danışmanı olduğu öğrencilerin karne, transkript, akademik durum çizelgesi izleme işlemi
+Verdiği derslerin liste dökümünü alabilme
+Verdiği dersleri alan öğrenci listelerinin dökümünü alabilme
+Ders-öğrenci listesini excel olarak sistemden edinebilme
+Geçmişe dönük verilen derslerin başarı oranını görebilme
+Verdiği derslerin kontenjan durumunu izleyebilme
